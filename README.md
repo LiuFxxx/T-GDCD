@@ -19,4 +19,11 @@ torchvision 0.11.2
 einops  0.3.2
 ```
 Please see ```requirements.txt``` for all the other requirements.
+### Installation
+Clone this repo:
+```
+git clone https://github.com/wgcban/ChangeFormer.git
+cd ChangeFormer
+```
+
 
