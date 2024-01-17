@@ -1,0 +1,1 @@
+# T-GDCD-Transformer-Based-Generative-Diffusion-Change-Detection-Model-for-Remote-Sensing
