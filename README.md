@@ -1,7 +1,7 @@
 # T-GDCD-Transformer-Based-Generative-Diffusion-Change-Detection-Model-for-Remote-Sensing
 
-### [Paper](https://www.google.com)
-### [Code](https://www.google.com)
+### [Paper](https://www.google.com)'X'
+### [Code](https://www.google.com)'X'
 
 #### Yihan Wen，Qi Cao and Guanchong Niu
 ####  The Hong Kong Polytechnice University，Xidian University
