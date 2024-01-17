@@ -4,7 +4,7 @@
 ### [Code](https://github.com/LiuFxxx/T-GDCD) 'https://github.com/LiuFxxx/T-GDCD'
 ## Network Architecture
 ![输入图片说明](photos/4.png)
-#### Quantitative & Qualitative Results on CDD and WHU
+## Quantitative & Qualitative Results on CDD and WHU
 ![输入图片说明](photos/5.png)
 ![输入图片说明](photos/2.png)
 ##  Usage
