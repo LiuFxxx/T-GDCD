@@ -22,8 +22,7 @@ Please see ```requirements.txt``` for all the other requirements.
 ### Installation
 Clone this repo:
 ```
-git clone https://github.com/wgcban/ChangeFormer.git
-cd ChangeFormer
+git clone https://github.com/LiuFxxx/T-GDCD-Transformer-Based-Generative-Diffusion-Change-Detection-Model-for-Remote-Sensing.git
 ```
 
 
