@@ -12,6 +12,11 @@
 ![输入图片说明](photos/2.png)
 ##  Usage
 ### Requirements
-`<hello world>`
-Please see ```requirements.txt``` for all the other requirements.
+```
+@Override
+protected void onDestroy() {
+    EventBus.getDefault().unregister(this);
+    super.onDestroy();
+}
+``` Please see ```requirements.txt``` for all the other requirements.
 
