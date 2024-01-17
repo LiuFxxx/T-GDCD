@@ -24,5 +24,10 @@ Clone this repo:
 ```
 git clone https://github.com/LiuFxxx/T-GDCD-Transformer-Based-Generative-Diffusion-Change-Detection-Model-for-Remote-Sensing.git
 ```
-
+### Setting up conda environment:
+Create a virtual ```conda``` environment named ```GDCD``` with the following command:
+```
+conda create --name GDCD --file requirements.txt
+conda activate GDCD
+```
 
