@@ -3,8 +3,6 @@
 ### [Paper](https://www.google.com) 'https://www.google.com'
 ### [Code](https://www.google.com) 'https://www.google.com'
 
-#### Yihan Wen，Qi Cao and Guanchong Niu
-####  The Hong Kong Polytechnice University，Xidian University
 ## Network Architecture
 ![输入图片说明](photos/4.png)
 ##  ## Quantitative & Qualitative Results on CDD and WHU
