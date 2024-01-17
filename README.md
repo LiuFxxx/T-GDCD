@@ -13,3 +13,4 @@
 ##  Usage
 ### Requirements
 ```pytorch```
+Please see ```requirements.txt``` for all the other requirements.
