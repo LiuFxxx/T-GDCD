@@ -1,5 +1,7 @@
 # T-GDCD-Transformer-Based-Generative-Diffusion-Change-Detection-Model-for-Remote-Sensing
 
+## Our code will be presented in July 2024
+
 ### [Paper](https://www.google.com) 'https://www.google.com'
 ### [Code](https://github.com/LiuFxxx/T-GDCD) 'https://github.com/LiuFxxx/T-GDCD'
 ## Network Architecture
